@@ -1,0 +1,72 @@
+[
+    {
+        "id": "user63bdfe1b59f30",
+        "username": "admin",
+        "email": "email1@email.hu",
+        "password": "admin",
+        "isAdmin": true
+    },
+    {
+        "id": "user63bdfe1b59f3a",
+        "username": "user2",
+        "email": "email2@email.hu",
+        "password": "user2",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe3e559bb",
+        "username": "user3",
+        "email": "email3@email.hu",
+        "password": "user3",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe3e559c4",
+        "username": "asatillo.akhmedov@gmail.com",
+        "email": "asatillo.akhmedov@gmail.com",
+        "password": "5QdJcVW2gy7jrRh",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe3e559c5",
+        "username": "lojka",
+        "email": "asda@asd.s",
+        "password": "dasdsdagg",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe61dba59",
+        "username": "asatillo",
+        "email": "asatillo.akhmedov@gmail.com",
+        "password": "12345",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe61dba5d",
+        "username": "aleksandrr",
+        "email": "asatillo@gmail.com",
+        "password": "1234",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfe61dba64",
+        "username": "koshmar",
+        "email": "koshmar@gmail.com",
+        "password": "koshmar",
+        "isAdmin": false
+    },
+    {
+        "id": "user63bdfdb27bf7b",
+        "username": "yigitSamur",
+        "email": "arda@google.com",
+        "password": "Yigit1$",
+        "isAdmin": false
+    },
+    {
+        "id": "user63c15c166345d",
+        "username": "tashaq",
+        "email": "asatillo.akhmedov@gmail.com",
+        "password": "Tofig2023#",
+        "isAdmin": false
+    }
+]

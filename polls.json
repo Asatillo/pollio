@@ -1,0 +1,273 @@
+[
+    {
+        "id": "poll63bdfed195135",
+        "question": "Would you like FREE snacks on the university campus?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "isMultiple": false,
+        "createdAt": "2022-12-04",
+        "deadline": "2022-12-12",
+        "answers": {
+            "Yes": 2,
+            "No": 0
+        },
+        "voted": {
+            "userid1": [
+                "Yes"
+            ],
+            "userid2": [
+                "Yes"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed195139",
+        "question": "What kind of snacks would you like?",
+        "options": [
+            "Potato chips",
+            "Peanuts",
+            "Chocolate bars",
+            "Cookies"
+        ],
+        "isMultiple": true,
+        "createdAt": "2022-12-05",
+        "deadline": "2024-01-21",
+        "answers": {
+            "Potato chips": 2,
+            "Peanuts": 2,
+            "Chocolate bars": 3,
+            "Cookies": 1
+        },
+        "voted": {
+            "userid1": [
+                "Peanuts",
+                "Chocolate bars"
+            ],
+            "userid2": [
+                "Potato chips",
+                "Peanuts",
+                "Chocolate bars"
+            ],
+            "userid3": [
+                "Potato chips",
+                "Chocolate bars",
+                "Cookies"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513a",
+        "question": "Which pet do you prefer?",
+        "options": [
+            "Cat",
+            "Dog",
+            "Turtle",
+            "Hamster"
+        ],
+        "isMultiple": true,
+        "createdAt": "2022-12-05",
+        "deadline": "2024-12-13",
+        "answers": {
+            "Cat": 3,
+            "Dog": 3,
+            "Turtle": 3,
+            "Hamster": 2
+        },
+        "voted": {
+            "userid2": [
+                "Cat",
+                "Dog",
+                "Turtle",
+                "Hamster"
+            ],
+            "userid1": [
+                "Cat",
+                "Dog",
+                "Turtle",
+                "Hamster"
+            ],
+            "userid3": [
+                "Cat",
+                "Dog",
+                "Turtle"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513b",
+        "question": "Who do you love more, grandma from mother's side or father's side?",
+        "options": [
+            "Mother's",
+            "Father's"
+        ],
+        "isMultiple": false,
+        "createdAt": "2022-12-04",
+        "deadline": "2023-01-01",
+        "answers": {
+            "Mother's": 1,
+            "Father's": 1
+        },
+        "voted": {
+            "userid1": [
+                "Mother's"
+            ],
+            "admin": [
+                "Father's"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513c",
+        "question": "Would you like to work from home?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "isMultiple": false,
+        "createdAt": "2022-12-04",
+        "deadline": "2023-12-12",
+        "answers": {
+            "Yes": 2,
+            "No": 0
+        },
+        "voted": {
+            "userid1": [
+                "Yes"
+            ],
+            "userid2": [
+                "Yes"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513d",
+        "question": "Do you smoke?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "isMultiple": false,
+        "createdAt": "2023-01-09",
+        "deadline": "2023-02-01",
+        "answers": {
+            "Yes": 1,
+            "No": 1
+        },
+        "voted": {
+            "admin": [
+                "Yes"
+            ],
+            "koshmar": [
+                "No"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513e",
+        "question": "What do you eat for the breakfast?",
+        "options": [
+            "Eggs",
+            "Pancakes",
+            "Salad",
+            "Meat",
+            "Salami"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-01-09",
+        "deadline": "2023-02-28",
+        "answers": {
+            "Eggs": 2,
+            "Pancakes": 1,
+            "Salad": 1,
+            "Meat": 0,
+            "Salami": 1
+        },
+        "voted": {
+            "admin": [
+                "Eggs",
+                "Pancakes",
+                "Salad",
+                "Salami"
+            ],
+            "koshmar": [
+                "Eggs"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed19513f",
+        "question": "Do you have a car?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "isMultiple": false,
+        "createdAt": "2023-01-10",
+        "deadline": "2023-03-15",
+        "answers": {
+            "Yes": 0,
+            "No": 1
+        },
+        "voted": {
+            "koshmar": [
+                "No"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed195140",
+        "question": "What do you do during the week?",
+        "options": [
+            "sport",
+            "cleaning",
+            "working",
+            "studying"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-01-10",
+        "deadline": "2023-01-31",
+        "answers": {
+            "sport": 2,
+            "cleaning": 1,
+            "working": 2,
+            "studying": 1
+        },
+        "voted": {
+            "koshmar": [
+                "sport",
+                "cleaning"
+            ],
+            "admin": [
+                "working",
+                "studying"
+            ],
+            "user2": [
+                "sport",
+                "working"
+            ]
+        }
+    },
+    {
+        "id": "poll63bdfed195141",
+        "question": "Do you like Hungary?",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "isMultiple": true,
+        "createdAt": "2023-01-10",
+        "deadline": "2023-04-01",
+        "answers": {
+            "Yes": 1,
+            "No": 1
+        },
+        "voted": {
+            "admin": [
+                "Yes",
+                "No"
+            ]
+        }
+    }
+]
